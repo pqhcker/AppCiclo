@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hu3C7K/tvc6HJ4nvkYwvWEMpJyQc7DCG0iTJCp/O1eeuMev/xM13XGf09vga0PADc+L75WUOyhqt0b29G7Os+A==",
+  "success": true,
+  "projectFilePath": "/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo.iOS/AppCiclo.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/aa000183/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/aa000183/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/aa000183/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

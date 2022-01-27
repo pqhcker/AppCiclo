@@ -1,0 +1,15 @@
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/AppCiclo.csproj.AssemblyReference.cache
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/AppCiclo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/AppCiclo.AssemblyInfoInputs.cache
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/AppCiclo.AssemblyInfo.cs
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/AppCiclo.csproj.CoreCompileInputs.cache
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/bin/Debug/netstandard2.0/AppCiclo.deps.json
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/bin/Debug/netstandard2.0/AppCiclo.dll
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/bin/Debug/netstandard2.0/ref/AppCiclo.dll
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/bin/Debug/netstandard2.0/AppCiclo.pdb
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/AppCiclo.dll
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/ref/AppCiclo.dll
+/Users/aa000183/Documents/GitHub/AppCiclo/AppCiclo/obj/Debug/netstandard2.0/AppCiclo.pdb

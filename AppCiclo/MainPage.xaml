@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:AppCiclo"
+             x:Class="AppCiclo.MainPage">
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel/>
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Button Text="Empezar contador" Command="{Binding EjecutarCommand}"/>
+        <Grid ColumnDefinitions="20*,40*" RowDefinitions="*">
+            <Label Grid.Row="0" Grid.Column="0" Text="Contador:"/>
+            <Label Grid.Row="0" Grid.Column="1" Text="{Binding Contador}"/>
+        </Grid>
+        
+        
+    </StackLayout>
+
+</ContentPage>
